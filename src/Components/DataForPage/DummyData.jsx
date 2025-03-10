@@ -1,7 +1,7 @@
-import chair from "../../assets/images/gray-chair.png";
-import sofa2 from "../../assets/images/roseChair.png";
-import sofa3 from "../../assets/images/gray-chair.png";
+import chair from "../../assets/images/roseChair.png";
+import sofa2 from "../../assets/images/chairPurple.png";
 import phone1 from "../../assets/images/bedRoom.png";
+import sofa3 from "../../assets/images/gray-chair.png";
 import blueSofa from "../../assets/images/blueSofa.png";
 
 export const navbarData = [
@@ -100,21 +100,21 @@ export const sliderData = [
   {
     id: "1",
     title: "Room 1",
-    text: "With AxeL, your room will shine bright again. Let furniture find there place in new beautifule warm room.",
+    text: "With High-End Fresh Furniture, your room will shine bright again. Let furniture find there place in new beautifule warm room.",
     type: "Room1",
     img: sofa2,
   },
   {
     id: "2",
     title: "Room 2",
-    text: "AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
+    text: "High-End Fresh Furniture is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
     type: "Room2",
     img: chair,
   },
   {
     id: "3",
     title: "Room 3",
-    text: "AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
+    text: "High-End Fresh Furniture is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
     type: "Room3",
     img: sofa3,
   },

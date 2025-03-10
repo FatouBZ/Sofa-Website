@@ -43,7 +43,7 @@ const NavbarComponent = () => {
                     duration={500}
                     isDynamic={true}
                     spyThrottle={500}
-                    className="cursor-pointer text-dark font-inter text-lg font-medium tracking-tight py-1 px-2 hover:text-[#e83397]"
+                    className="cursor-pointer text-dark font-inter text-lg font-medium tracking-tight py-1 px-2 hover:text-[#219595]"
                   >
                     {' '}
                     {item.name}

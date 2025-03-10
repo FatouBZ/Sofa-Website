@@ -8,7 +8,7 @@
 
 @layer utilities {
     .pushable{
-        background-color: hsl(319, 64%, 47%);
+        background-color: hsl(187, 64%, 47%);
         border-radius: 25px;
         border: none;
         position: relative;
@@ -25,7 +25,16 @@
         padding: 18px 20px;
         border-radius: 25px;
         font-size: 1.15rem;
-        background: #952161;
+        background: #219595;
+        color: white;
+        transform: translateY(-6px);
+    }
+    .front2{
+        display: block;
+        padding: 18px 20px;
+        border-radius: 25px;
+        font-size: 1.15rem;
+        background:  hsl(187, 99%, 38%);
         color: white;
         transform: translateY(-6px);
     }

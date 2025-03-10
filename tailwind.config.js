@@ -12,7 +12,7 @@ module.exports = {
         russoOne: ['Russo One'],
       },
       backgroundImage:{
-        wrapperBg:"url('assets/images/wrapperBackground.svg')"
+        wrapperBg:"url('assets/images/back.jpg')"
       },
       container:{
         sm:"640px",
